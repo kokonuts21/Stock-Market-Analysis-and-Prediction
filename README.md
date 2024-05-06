@@ -1,5 +1,6 @@
 # Stock Market Analysis and Prediction
-![Uploading pexels-alesiakozik-6770610.jpg…]()
+![image](https://github.com/kokonuts21/Stock-Market-Analysis-and-Prediction/assets/45546233/2e3ef7ca-3a32-47ad-9af1-9a78dd91b925)
+
 
 Stock market analysis and prediction using Long Short-Term Memory (LSTM) in data science is a powerful tool for investors and traders looking to make informed decisions based on historical data and trends. In this project, we will be using Numpy, Pandas, Matplotlib, Seaborn, and TensorFlow to analyze and predict the stock prices of various companies.
 
